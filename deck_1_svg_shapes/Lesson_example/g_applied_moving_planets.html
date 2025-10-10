@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>SVG Solar sytem</title>
+</head>
+<body>
+
+<div style="width:100%; max-width:1200px; margin:0 auto;">
+
+<svg viewBox="0 0 900 300" style="border:1px solid black;">
+
+<rect x="0" y="0" width="100%" height="100%" stroke-width="3" stroke-color="black" fill="black" opacity="0.8" />
+
+<!-- The Sun -->
+<circle cx="-40" cy="150" r="100" fill="yellow" /> 
+
+<!--The Inner Planet -->
+<!--moved to the outer side of the solar system-->
+<g transform="translate(650,-40)">                  <!--Surrounding the inner planets within a grouped element-->
+<circle cx="100" cy="150" r="5" fill="orange"/>
+<circle cx="140" cy="120" r="7" fill="silver"/>
+<circle cx="150" cy="160" r="7" fill="blue" />
+<circle cx="159" cy ="153" r="1.6" fill="white" />
+<circle cx="160" cy="180" r="6" fill="red"/>
+</g>
+
+<text x="100" y="280" fill="white" text-anchor="left" font-size="12" font-family="sans-serif">The Inner Planets </text>
+<line  x1="200" y1="0" x2="200" y2="300" stroke-width="3" stroke="white" />
+
+
+
+<!--The Big Gas Giants Planets -->
+
+<circle cx="250" cy="140" fill="orange" r="20" />
+<circle cx="320" cy="170" fill="yellow" r="17" />
+<ellipse cx="320" cy="170" rx="27" ry="2" fill="white"/>
+
+<line x1="500" y1="0" x2="500" y2="300" stroke-width="3" stroke="white" />
+<text x="350" y="280" fill="white" text-anchor="left" font-size="12" font-family="sans-serif"> The Big Gas Giant Planets</text>
+
+
+  
+<!-- The Outer Planets -->
+ <g transform="translate(-600, 20)">
+<circle cx="600" cy="200" r="14" fill="yellowgreen"/>
+<circle cx="700" cy="150" r="15" fill="blue" />
+<circle cx="830" cy="140" r="3" fill="grey"/>
+</g>
+<text x="800" y="280" font-size="12" font-family="sans-serif" fill="white">The Outer Planets</text>
+
+
+<!-- Gargantua -->
+ <circle cx="620" cy="80" r="30" fill="black" stroke-width="3" stroke="orange"/>
+ <circle cx="620" cy="80" r="28" fill="black" stroke-width="2" stroke="orange"/> 
+ <ellipse cx="620" cy="80" rx="50" ry="3" fill="orange"/>
+ <text x="600" y="120" font-size="12" font-family="sans-serif" fill="white">Gargantua</text>
+
+ <!-- TARs... come on TARs -->
+ <rect x="640" y="90" width="4" height="5" fill="silver" transform="skewX(30)"/> 
+ <text x="670" y="93" font-size="4" font-family="sans-serif" fill="white"> T.A.Rs</text>
+
+
+
+
+
+
+
+</svg>
+</body>
+</html>
