@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>SVG Solar sytem</title>
+</head>
+<body>
+
+<div style="width:100%; max-width:1200px; margin:0 auto;">
+
+<svg viewBox="0 0 900 300" style="border:1px solid black;">
+
+
+</svg>
+</body>
+</html>
