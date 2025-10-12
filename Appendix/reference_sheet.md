@@ -6,6 +6,7 @@ co-ordinates of plotting stwrt at top left (0,0),  positive x plots to the right
 **rect** - an element that has attriubutes x, y, width, height. used for bars squares and rectangles <br>
 **line** - x1,y1,x2,y2 <br>
 **circle** - cx, cy, r <br>
+**ellipse** - cx, cy, rx,ry <br>
 **text** - x, y, font-family, font-size, text-anchor, dominant-baseline <br>
      with text elements attributes are set in the opening bracket with the text to be displayed written between the opening and closed.<br>
 
