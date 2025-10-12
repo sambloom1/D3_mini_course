@@ -1,6 +1,6 @@
 ## SVG
 
-co-ordinates of plotting atwrt at top left (0,0)
+co-ordinates of plotting stwrt at top left (0,0),  positive x plots to the right, positive y plots down, 
 
 ### Basic shapes 
 **rect** - an element that has attriubutes x, y, width, height. used for bars squares and rectangles <br>
