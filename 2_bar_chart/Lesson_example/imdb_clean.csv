@@ -1,0 +1,56 @@
+,Movie,Genre,Director,IMDB_Rating,Gross,Meta_score
+8,Inception,"Action, Adventure, Sci-Fi",Christopher Nolan,8.8,"292,576,195",74.0
+14,The Matrix,"Action, Sci-Fi",Lana Wachowski,8.7,"171,479,930",73.0
+21,Interstellar,"Adventure, Drama, Sci-Fi",Christopher Nolan,8.6,"188,020,017",74.0
+27,Se7en,"Crime, Drama, Mystery",David Fincher,8.6,"100,125,643",65.0
+30,Seppuku,"Action, Drama, Mystery",Masaki Kobayashi,8.6,,85.0
+36,The Prestige,"Drama, Mystery, Sci-Fi",Christopher Nolan,8.5,"53,089,891",66.0
+41,The Usual Suspects,"Crime, Mystery, Thriller",Bryan Singer,8.5,"23,341,568",77.0
+44,Terminator 2: Judgment Day,"Action, Sci-Fi",James Cameron,8.5,"204,843,350",75.0
+47,Back to the Future,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,8.5,"210,609,762",87.0
+49,Psycho,"Horror, Mystery, Thriller",Alfred Hitchcock,8.5,"32,000,000",97.0
+60,Avengers: Infinity War,"Action, Adventure, Sci-Fi",Anthony Russo,8.4,"678,815,482",68.0
+67,The Lives of Others,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,8.4,"11,286,112",89.0
+68,Oldeuboi,"Action, Drama, Mystery",Chan-wook Park,8.4,"707,481",77.0
+69,Memento,"Mystery, Thriller",Christopher Nolan,8.4,"25,544,867",80.0
+74,Apocalypse Now,"Drama, Mystery, War",Francis Ford Coppola,8.4,"83,471,511",94.0
+75,Alien,"Horror, Sci-Fi",Ridley Scott,8.4,"78,900,000",89.0
+77,Tengoku to jigoku,"Crime, Drama, Mystery",Akira Kurosawa,8.4,,
+79,Witness for the Prosecution,"Crime, Drama, Mystery",Billy Wilder,8.4,"8,175,000",
+81,Rear Window,"Mystery, Thriller",Alfred Hitchcock,8.4,"36,764,313",100.0
+90,Incendies,"Drama, Mystery, War",Denis Villeneuve,8.3,"6,857,096",80.0
+94,Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi",Michel Gondry,8.3,"34,400,301",89.0
+106,Aliens,"Action, Adventure, Sci-Fi",James Cameron,8.3,"85,160,248",84.0
+113,A Clockwork Orange,"Crime, Drama, Sci-Fi",Stanley Kubrick,8.3,"6,207,725",77.0
+114,2001: A Space Odyssey,"Adventure, Sci-Fi",Stanley Kubrick,8.3,"56,954,992",84.0
+118,North by Northwest,"Adventure, Mystery, Thriller",Alfred Hitchcock,8.3,"13,275,000",98.0
+119,Vertigo,"Mystery, Romance, Thriller",Alfred Hitchcock,8.3,"3,200,000",100.0
+124,Citizen Kane,"Drama, Mystery",Orson Welles,8.3,"1,585,634",100.0
+125,M - Eine Stadt sucht einen Mörder,"Crime, Mystery, Thriller",Fritz Lang,8.3,"28,877",
+126,Metropolis,"Drama, Sci-Fi",Fritz Lang,8.3,"1,236,166",98.0
+133,Talvar,"Crime, Drama, Mystery",Meghna Gulzar,8.2,"342,370",
+136,Drishyam,"Crime, Drama, Mystery",Nishikant Kamat,8.2,"739,478",
+143,El secreto de sus ojos,"Drama, Mystery, Romance",Juan José Campanella,8.2,"6,391,436",80.0
+145,Shutter Island,"Mystery, Thriller",Martin Scorsese,8.2,"128,012,934",63.0
+152,V for Vendetta,"Action, Drama, Sci-Fi",James McTeigue,8.2,"70,511,035",62.0
+162,L.A. Confidential,"Crime, Drama, Mystery",Curtis Hanson,8.2,"64,616,940",90.0
+174,Stalker,"Drama, Sci-Fi",Andrei Tarkovsky,8.2,"234,723",
+189,Rashômon,"Crime, Drama, Mystery",Akira Kurosawa,8.2,"96,568",98.0
+198,Contratiempo,"Crime, Drama, Mystery",Oriol Paulo,8.1,,
+202,Logan,"Action, Drama, Sci-Fi",James Mangold,8.1,"226,277,068",77.0
+210,Gone Girl,"Drama, Mystery, Thriller",David Fincher,8.1,"167,767,189",79.0
+220,Kahaani,"Mystery, Thriller",Sujoy Ghosh,8.1,"1,035,953",
+222,Prisoners,"Crime, Drama, Mystery",Denis Villeneuve,8.1,"61,002,302",70.0
+223,Mad Max: Fury Road,"Action, Adventure, Sci-Fi",George Miller,8.1,"154,058,340",90.0
+239,Salinui chueok,"Crime, Drama, Mystery",Bong Joon Ho,8.1,"14,131",82.0
+248,The Sixth Sense,"Drama, Mystery, Thriller",M. Night Shyamalan,8.1,"293,506,292",64.0
+260,Trois couleurs: Rouge,"Drama, Mystery, Romance",Krzysztof Kieslowski,8.1,"4,043,686",100.0
+262,Jurassic Park,"Action, Adventure, Sci-Fi",Steven Spielberg,8.1,"402,453,882",68.0
+271,The Thing,"Horror, Mystery, Sci-Fi",John Carpenter,8.1,"13,782,838",57.0
+275,Blade Runner,"Action, Sci-Fi, Thriller",Ridley Scott,8.1,"32,868,943",84.0
+283,Chinatown,"Drama, Mystery, Thriller",Roman Polanski,8.1,"29,000,000",92.0
+286,Solaris,"Drama, Mystery, Sci-Fi",Andrei Tarkovsky,8.1,,90.0
+287,Le samouraï,"Crime, Drama, Mystery",Jean-Pierre Melville,8.1,"39,481",
+309,The Third Man,"Film-Noir, Mystery, Thriller",Carol Reed,8.1,"449,191",97.0
+312,Rebecca,"Drama, Mystery, Romance",Alfred Hitchcock,8.1,"4,360,000",86.0
+321,Das Cabinet des Dr. Caligari,"Fantasy, Horror, Mystery",Robert Wiene,8.1,,
