@@ -11,7 +11,9 @@ A mini course of D3 learning content with examples and tasks etc.. This mini cou
 ## Lesson 1 - SVG:
 
 
-
+<img width="678" height="227" alt="image" src="https://github.com/user-attachments/assets/c1b2cee8-7ccc-438a-a058-6aa42516c7f8" />
 
 
 ## Lesson 2 Bar graphs 
+
+<img width="413" height="309" alt="image" src="https://github.com/user-attachments/assets/8a72e4e6-5983-4908-a2e5-17611847a78c" />
