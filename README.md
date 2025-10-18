@@ -8,8 +8,8 @@ A mini course of D3 learning content with examples and tasks etc.. This mini cou
 2. A start-up folder to get that inital start point for your own ideas and examples. 
 3. Problem spotting folder which includes the examples of common mistakes that could with the solutions too. 
 
-## Lesson 1 - SVG:
-
+## Lesson 1 - SVG <br>
+Creating and moving svg shapes 
 
 <img width="678" height="227" alt="image" src="https://github.com/user-attachments/assets/c1b2cee8-7ccc-438a-a058-6aa42516c7f8" />
 
@@ -17,6 +17,7 @@ A mini course of D3 learning content with examples and tasks etc.. This mini cou
 
 
 
-## Lesson 2 Bar graphs 
+## Lesson 2 Bar graphs <br> 
+A bar chart of ranked IMDB Mystery/Sci-fi films. Introducign scale concepts
 
 <img width="413" height="309" alt="image" src="https://github.com/user-attachments/assets/8a72e4e6-5983-4908-a2e5-17611847a78c" />
