@@ -13,6 +13,9 @@ A mini course of D3 learning content with examples and tasks etc.. This mini cou
 
 <img width="678" height="227" alt="image" src="https://github.com/user-attachments/assets/c1b2cee8-7ccc-438a-a058-6aa42516c7f8" />
 
+<img width="700" height="274" alt="image" src="https://github.com/user-attachments/assets/3c76c58a-0142-41eb-b2ce-f687870f6721" />
+
+
 
 ## Lesson 2 Bar graphs 
 
