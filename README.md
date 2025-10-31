@@ -29,3 +29,4 @@ A line graph showing Keswick Temperature across the year. As well as a donut cha
 Key topics introduced - margin convention, axis creation, axis formatting, Line - Area - Arc Generation.
 
 
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/fdc751d9-3a71-4f74-a1cb-5fa20901c2fd" />
