@@ -18,6 +18,14 @@ Creating and moving svg shapes
 
 
 ## Lesson 2 Bar graphs <br> 
-A bar chart of ranked IMDB Mystery/Sci-fi films. Introducign scale concepts
+A bar chart of ranked IMDB Mystery/Sci-fi films. Introducing scale concepts
 
 <img width="413" height="309" alt="image" src="https://github.com/user-attachments/assets/8a72e4e6-5983-4908-a2e5-17611847a78c" />
+
+
+## Lesson 3 Line and Donut graphs <br>
+
+A line graph showing Keswick Temperature across the year. As well as a donut chart for the rainy/non rainy days. <br>
+Key topics introduced - margin convention, axis creation, axis formatting, Line - Area - Arc Generation.
+
+
