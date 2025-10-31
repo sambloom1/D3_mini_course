@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> Keswick Temperature 2024  | Line Chart </title>
+	<link rel="stylesheet" type="text/css" href="css/base.css">
+	<link rel="stylesheet" type="text/css" href="css/visualization.css">
+</head>
+
+<body>
+	<div class="container">
+
+		<h1>Keswick Temperature 2024</h1>
+		<div class="row">
+			<div class="col col-9">
+				<h2>Weekly average temperature</h2>
+				<div class="responsive-svg-container">
+					<div id="keswick_line"></div>
+				</div>
+			</div>
+			<div class="col col-3">
+				<h2>Days with precipitation</h2>
+				<div class="responsive-svg-container small">
+					<div id="arc"></div>
+				</div>
+			</div>
+		</div>
+
+
+
+	</div>
+
+	<!-- Load your scripts here -->
+	<script src="https://d3js.org/d3.v7.min.js"></script>
+	<script src="js/keswick_line clean.js"></script>
+	<script src="js/keswick_arc_1.js"></script> <!-- I wasnt laoding in the scripts before, thats why they were't here!!-->
+<!--	<script src="js/arcs.js"></script> -->
+</body>
+
+</html>
+

@@ -1,0 +1,9 @@
+/* Responsive container of the svg element */
+.responsive-svg-container {
+  width: 1000;
+  max-width: 800px;
+}
+.responsive-svg-container.small {
+  margin: 0 auto;
+  max-width: 300px;
+}
