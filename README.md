@@ -18,7 +18,8 @@ Creating and moving svg shapes
 
 
 ## Lesson 2 Bar graphs <br> 
-A bar chart of ranked IMDB Mystery/Sci-fi films. Introducing scale concepts
+A bar chart of ranked IMDB Mystery/Sci-fi films. <br>
+Key topics introduced - Loading data with Promise, Domain and Ranges, applying them to scales and which type of scale. Joining data to the DOM. Grouping elements to allow for changes across all elements rather than individually e.g. text annotations.  
 
 <img width="413" height="309" alt="image" src="https://github.com/user-attachments/assets/8a72e4e6-5983-4908-a2e5-17611847a78c" />
 
