@@ -8,7 +8,7 @@ A mini course of D3 learning content with examples and tasks etc.. This mini cou
 2. A start-up folder to get that inital start point for your own ideas and examples.
 
 ## Appendix 
-A markdown file that looks at the concepts intorudced with descriptions and code example. - [Appendix] (https://github.com/sambloom1/D3_mini_course/blob/main/Appendix/README.md)
+A markdown file that looks at the concepts intorudced with descriptions and code example. - [Appendix](https://github.com/sambloom1/D3_mini_course/blob/main/Appendix/README.md)
 
 ## Lesson 1 - SVG <br>
 Creating and moving svg shapes 
