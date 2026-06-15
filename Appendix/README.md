@@ -1,4 +1,4 @@
-## SVG Lesson
+## SVG Basics
 
 co-ordinates of plotting stwrt at top left (0,0),  positive x plots to the right, positive y plots down, 
 
@@ -26,8 +26,7 @@ The attribute transform and passing translate means we can 'translate' or move t
 |Measuring | Using d3 functions to obtain minimum and maximum and extenet (min and max values in an array | `d3.min(data, d=> d.IMDB_Rating), can link it with console.log(d3.max(data, d=>d.IMDB_Rating)` 
 | Binding data to the DOM | The process of linking the data which is now loaded to an svg element like a rect for a bar chart. Usually it's an empty selection first and then we bind the data with .data() followed by .join("rect") | `svg.selectAll('bars-Movie')`<br>`.data(data)`<br>`.join("rect")`<br>`.attr('class','bars-Movies)`
 | Scales | This detemines the posiitons of data onto the SVG. Once set it enables recondiguriation of size easily as the scale dictates the positions when its declared. The types of scales is dependent on the data that's present. discrete continuous, temporal etc. |  `const xScale = d3.scaleLinear().domain([0,50]).range([0, innerWidth])` |
-| Domain and Range | The domain and range are accessor functions of the scale. Domain is the input and Range is the ouput of the Range based on the Scale. the type of Scale determines what to enter as a domain and Range. With scaleLinear() this is straightforward as it's just a numerical array literal
- `.domain=[0, maxValue].range=[0, innerWidth] ` |
+| Domain and Range | The domain and range are accessor functions of the scale. Domain is the input and Range is the ouput of the Range based on the Scale. the type of Scale determines what to enter as a domain and Range. With scaleLinear() this is straightforward as it's just a numerical array literal|`.domain=[0, maxValue].range=[0, innerWidth] ` 
 
 
 ## Project 2 - Line Chart
